@@ -1,0 +1,2 @@
+wccmmutl -needed -fast
+:fin
