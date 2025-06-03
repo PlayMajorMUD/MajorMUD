@@ -1,7 +1,7 @@
 ### MajorMUD v1.11p Installer
 ![MajorMUD](https://github.com/user-attachments/assets/61bc64c1-f53d-4d26-b03d-10b67c0e2ffe)
 
-[MajorMUD.v1.11p.zip](https://github.com/PlayMajorMUD/MajorMUD/releases/download/MajorMUD/MajorMUD.v1.11p.zip) Here is a modern installer for **MajorMUD v1.11p** & **MajorMUD Plus** that will run on both 32 & 64bit systems. This installer will work for The Major BBS v10 or Worldgroup 3.2+.
+[MajorMUD.v1.11p.zip](https://github.com/PlayMajorMUD/MajorMUD/releases/download/MajorMUD/MajorMUD.v1.11p.zip) here is a modern installer for **MajorMUD v1.11p** & **MajorMUD Plus** that will run on both 32 & 64bit systems. This installer will work for The Major BBS v10 or Worldgroup 3.2+.
 
 The installer will **NOT** overwrite any existing files. However once installed there will be an uninstaller found in the control panel will remove all files if you run it.
 
